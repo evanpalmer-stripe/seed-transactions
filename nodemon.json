@@ -1,4 +1,5 @@
 {
-  "ignore": ["**/config.json", "./config.json", "config.json"]
+  "ignore": ["**/config.json", "./config.json", "config.json"],
+  "stdin": false
 }
 
